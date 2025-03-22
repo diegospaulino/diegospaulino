@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diegospaulino&color=red&style=for-the-badge&label=VISUALIZAÇÕES+DESTE+PERFIL" alt="Diego Paulino" />
+</p>
+
 ## Hi there 👋
 
 **diegospaulino/diegospaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
