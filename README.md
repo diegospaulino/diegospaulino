@@ -36,15 +36,9 @@ Estatísticas e gráficos disponíveis acima mostram meu progresso e o foco prin
 <div align="center">
   <a href="https://github.com/diegospaulino">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegospaulino&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/diegospaulino">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegospaulino&layout=compact&langs_count=16&theme=shadow_blue&hide=LUA,SCSS,html,tex,jupyter%20notebook&hide_progress=true" alt="Linguagens mais utilizadas" />
   </a>
 </div>
 
 
 ---
-
-💡 **Dica:** Personalize este `README.md` com links diretos para seus projetos e adicione detalhes que você queira destacar. Se precisar de mais ajuda, estarei aqui para ajustar!
-
-Boa sorte no seu `README.md`! 🚀
